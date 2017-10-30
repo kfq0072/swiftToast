@@ -6,4 +6,4 @@ let  kfToast = KFToastView.sharedInstance
 kfToast.setTextLabelColor(color: UIColor.blue)
 kfToast.setToastViewBackgroundColor(color: UIColor.yellow)
 kfToast.showToast(text: "hellotoastddddddddddddddtoastddddddddddddddtoastdddddddddddddd toastdddddddddddddd ", duration: 2,delay: 0.25)
-![image](https://github.com/kfq0072/swiftToast/readmeImage/Snip20171030_1.png)
+![image](https://github.com/kfq0072/swiftToast/raw/master/readmeImage/Snip20171030_1.png)
